@@ -2,6 +2,9 @@ import React from 'react';
 import '../App.css';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
+import WeatherEats from './pages/WeatherEats';
+import LocalSpot from './pages/LocalSpot';
+import ChromaCove from './pages/ChromaCove';
 
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
