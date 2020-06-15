@@ -1,12 +1,18 @@
 import React from 'react';
 import './App.css';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+
+import Home from './pages/Home'
+import AboutMe from './pages/AboutMe'
+
 
 function App() {
   return (
-    <div className="App">
-      <img src= "../assets/images/cjpalmerin_logo_500x500.png" class="logo" alt="cj palmerin logo" />
-      <h1>Hello!</h1>
-    </div>
+    <Router>
+      <Route exact path="/" component={Home} />
+      <Route exact path="/about" component={AboutMe} />
+
+    </Router>
   );
 }
 

@@ -19,3 +19,7 @@ body {
   padding: 0px;
   overflow-x: hidden;
 }
+
+main {
+  height: 60%;
+}
