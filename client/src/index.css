@@ -12,6 +12,7 @@ body {
   /* background-color: #222222; */
   background: rgb(34,34,34);
   background: linear-gradient(180deg, rgba(34,34,34,1) 64%, rgba(31,50,60,1) 100%);
+   
   background-attachment: fixed;
   height: 100%;
   width: 100%;

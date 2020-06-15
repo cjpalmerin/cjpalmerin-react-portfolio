@@ -21,16 +21,19 @@
   margin-top: 15%;
 }
 
+.jumbotron-fluid {
+  padding: 0px;
+}
+
 .jumbotron {
   flex-wrap: wrap;
   align-content: center;
   background:rgba(255, 255, 255, 0);
-  margin-top: 5%;
   margin-bottom: 0%;
 }
 
 #logo {
-  height: 100px;
+  height: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -51,7 +54,11 @@ button {
 }
 
 button:hover {
-  color: #ef9ede;
+  color: #90e9c6;
+}
+
+h6 {
+  color: #90e9c6;
 }
 
 .separator {
@@ -65,15 +72,35 @@ a {
 }
 
 a:hover {
-  color: #ef9ede;
+  color: #90e9c6;
   text-decoration: none;
 }
 
 #profile-pic {
-  height: 300px;
+  height: 200px;
   border-radius: 50%;
   border: solid 4px white;
   box-shadow: 10px 10px 5px #111111;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-sm-12 {
+  padding-left: 200px;
+  padding-right: 200px;
+
+  
+}
+
+
+.about-me-text {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+
 }
 
 #resume {
@@ -229,17 +256,12 @@ a:hover {
   margin-right: 5px;
 }
 
+.contact-icon-span {
+  padding-left: 50px;
+}
+
 .footer-icons {
   font-size: 20px;
   color:white;
   margin-right: 2px;
-}
-
-
-
-
-
-
-.logo {
-  height: 200px;
 }
