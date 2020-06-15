@@ -41,7 +41,7 @@ export default function Projects() {
                                 <a href="https://github.com/cbruder1292/Project1" target="_blank" rel="noopener noreferrer"> <i className="fab fa-github-square"></i></a>
                             </span>
                             <span className="projects-icons">
-                                <Link to="/weathereats" target="_blank" rel="noopener noreferrer"> <i className="fas fa-angle-right"></i></Link>
+                                <Link to="/weathereats" rel="noopener noreferrer"> <i className="fas fa-angle-right"></i></Link>
                             </span>
                         </div>
 
@@ -59,7 +59,7 @@ export default function Projects() {
                                 <a href="https://github.com/blapete/project-2" target="_blank" rel="noopener noreferrer"> <i className="fab fa-github-square"></i></a>
                             </span>
                             <span className="projects-icons">
-                                <Link to="/localspot" target="_blank" rel="noopener noreferrer"> <i className="fas fa-angle-right"></i></Link>
+                                <Link to="/localspot" rel="noopener noreferrer"> <i className="fas fa-angle-right"></i></Link>
                             </span>
                         </div>
 
@@ -76,7 +76,7 @@ export default function Projects() {
                                 <a href="https://github.com/cjpalmerin/chroma-cove" target="_blank" rel="noopener noreferrer"> <i className="fab fa-github-square"></i></a>
                             </span>
                             <span className="projects-icons">
-                                <Link to="/chromacove" target="_blank" rel="noopener noreferrer"> <i className="fas fa-angle-right"></i></Link>
+                                <Link to="/chromacove" rel="noopener noreferrer"> <i className="fas fa-angle-right"></i></Link>
                             </span>
                         </div>
 
