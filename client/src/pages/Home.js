@@ -10,15 +10,15 @@ export default function Home() {
             <div className="container">
                 <img src="../assets/images/cjpalmerin_logo_500x500.png" id="logo" alt="cj palmerin logo" />
                 <div id="front-menu">
-                    <Link to='/about'> About Me </Link>
+                    <Link className="menu-button" to='/about'> About Me </Link>
                     <p className="separator"> | </p>
-                    <Link to='/projects'> Web Development </Link>
+                    <Link className="menu-button" to='/projects'> Web Development </Link>
                     <p className="separator"> | </p>
-                    <Link to='/resume'> Resume </Link>
+                    <Link className="menu-button" to='/resume'> Resume </Link>
                     <p className="separator"> | </p>
-                    <Link to='/design'> Design </Link>
+                    <Link className="menu-button" to='/design'> Design </Link>
                     <p className="separator"> | </p>
-                    <Link to='/contact'> Contact </Link>
+                    <Link className="menu-button" to='/contact'> Contact </Link>
                 </div>
             </div>
         </div>

@@ -211,6 +211,14 @@ ul {
   .wE-pic, .LS-pic {
       display:none;
   }
+
+  .col-sm-12 {
+    padding: 10px;
+  }
+
+  .about-me-text {
+    text-align: left;
+  }
 }
 
 .project-div {

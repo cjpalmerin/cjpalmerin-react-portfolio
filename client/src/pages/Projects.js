@@ -22,7 +22,7 @@ export default function Projects() {
             <div className="container">
                 <div className="row">
                     <div className="col-sm-12 project-header">
-                        <h2 className="project-headline">Projects</h2>
+                        <h2 className="project-headline"> Web Development Projects</h2>
                         <p>Here are some of the projects that I worked on while participating in the Northwestern Coding Bootcamp. The first three projects are projects that I worked on as a part of a three person group, the third of which, ChromaCove, I was the project manager.
                         I have worked predominantly in the front end but have also worked back end as well.
                 </p>

@@ -30,12 +30,8 @@ export default function ChromaCove() {
                         <img src={LSadminshot} alt="LocalSpot Demo" className="wE-pic" />
                     </div>
                     <div className="col-sm-4">
-                        <p> Whenever visitors come to Chicago, they're always told about the same places; head over to the Museum Campus
-                        or Navy Pier then grab a slice of decent pizza at Giordano's. We have no problem with at, but there's so much
-              more to Chicago than the tourist spots. What about the spots the locals hit up? </p>
-                        <p>Check out LocalSpot for a
-                        curated selection of locations around town. Visitors and Chicago natives alike could find a new spot to check
-                        out or see a familiar spot they love. In which case, they can give it a like!
+                        <p> It's easy to find domain free photography and art on the internet at the expense of the artist. With ChromaCove you have the ability to search for photography and find free photos. Instead of just saving said photography, the user actually adds the photographer to their favorites for future reference. This app was created using React, Express, MongoDB, Node, Passport, and the Unsplash API.</p>
+                        <p>For the future of ChromaCove, we would like to extend this idea to cover other artists as well from painters to graphic designers to create a massive online encyclopedia for independent artists. Check out our Herkou link below!
               <br />
                             <br />
                             <span style={spanStyling}>

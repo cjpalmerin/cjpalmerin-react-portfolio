@@ -14,8 +14,15 @@ export default function Design() {
                         <h2 className="project-headline">Design</h2>
                         <p>Here is a sample of some of the design projects that I worked on as a freelancer. Here I have branding, marketing, and product design projects.
                 </p>
-                        <p>For animation and video I will be linking to a youtube channel shortly.
-        <br />
+                        <p>For animation and video check out my youtube channel, for animation and illustration check out my instagram.
+                            <br />
+                            <span className="projects-icons">
+                                <a href="https://www.youtube.com/channel/UCTAIBmGMpkJb0T3iwT4DKQw/featured" target="_blank" rel="noopener noreferrer"> <i className="fab fa-youtube"></i></a>
+                            </span>
+                            <span className="projects-icons">
+                                <a href="https://www.instagram.com/hurley.posts/" target="_blank" rel="noopener noreferrer"> <i className="fab fa-instagram-square"></i></a>
+                            </span>
+                            <br />
                             <br />
                             <br />
                             <h4 className="design-title">Branding</h4>
@@ -41,9 +48,9 @@ export default function Design() {
                         <img src="../assets/images/design/marketing/andbmarketing.png" className="design-pic" alt="design" />
                     </div>
                     <div className="col-sm-12 project-header">
-                    <br />
-                    <br />
-                    <br />
+                        <br />
+                        <br />
+                        <br />
                         <h4 className="design-title">Product Design</h4>
                     </div>
                     <div className="col-sm-12 projects-div relative">
