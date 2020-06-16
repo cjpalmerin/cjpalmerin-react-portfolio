@@ -25,6 +25,12 @@ export default function Navbar() {
                     <li className="nav-item">
                         <Link className="nav-link" to="/projects">Projects</Link>
                     </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/resume">Resume</Link>
+                    </li>
+                    <li className="nav-item">
+                            <a className="nav-link" href="/contact">Contact Me</a>
+                        </li>
                 </ul>
             </div>
         </nav>

@@ -8,6 +8,8 @@ import Projects from './pages/Projects';
 import WeatherEats from './pages/WeatherEats';
 import LocalSpot from './pages/LocalSpot';
 import ChromaCove from './pages/ChromaCove';
+import Resume from './pages/Resume';
+import Contact from './pages/Contact';
 
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
       <Route exact path="/weathereats" component={WeatherEats} />
       <Route exact path="/localspot" component={LocalSpot} />
       <Route exact path="/chromacove" component={ChromaCove} />
+      <Route exact path="/resume" component={Resume} />
+      <Route exact path="/contact" component={Contact} />
 
     </Router>
   );

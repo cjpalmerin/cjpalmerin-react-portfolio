@@ -14,6 +14,9 @@ export default function Home() {
                     <p className="separator"> | </p>
                     <Link to='/projects'> Projects </Link>
                     <p className="separator"> | </p>
+                    <Link to='/resume'> Resume </Link>
+                    <p className="separator"> | </p>
+                    <Link to='/contact'> Contact </Link>
                 </div>
             </div>
         </div>
