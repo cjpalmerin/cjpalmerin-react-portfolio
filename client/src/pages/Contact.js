@@ -8,7 +8,7 @@ function Contact() {
         <>
             <Navbar />
             <div className="jumbotron jumbotron-fluid">
-                <div className="container">
+                <div className="container contact-container">
                     <h3>Contact Me</h3>
                     <p>
                         <span className="contact-icons">

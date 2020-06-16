@@ -11,7 +11,7 @@ export default function Design() {
             <div className="container">
                 <div className="row">
                     <div className="col-sm-12 project-header">
-                        <h2 className="project-headline">Design</h2>
+                        <h2 className="project-headline">Design Samples</h2>
                         <p>Here is a sample of some of the design projects that I worked on as a freelancer. Here I have branding, marketing, and product design projects.
                 </p>
                         <p>For animation and video check out my youtube channel, for animation and illustration check out my instagram.
