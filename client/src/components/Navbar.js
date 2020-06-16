@@ -23,14 +23,17 @@ export default function Navbar() {
                         <Link className="nav-link" to="/about">About Me </Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="/projects">Projects</Link>
+                        <Link className="nav-link" to="/projects">Web Development</Link>
                     </li>
                     <li className="nav-item">
                         <Link className="nav-link" to="/resume">Resume</Link>
                     </li>
                     <li className="nav-item">
-                            <a className="nav-link" href="/contact">Contact Me</a>
-                        </li>
+                        <Link className="nav-link" to="/design">Design</Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/contact">Contact Me</Link>
+                    </li>
                 </ul>
             </div>
         </nav>
@@ -40,5 +43,5 @@ export default function Navbar() {
 const spanStyle = {
     fontSize: '20px',
     color: 'white'
-    
+
 }

@@ -292,8 +292,23 @@ ul {
   padding-left: 50px;
 }
 
+
+.design-title {
+  text-align: center;
+
+}
+
+h4{
+  text-align: center;
+
+}
+
 .footer-icons {
   font-size: 20px;
   color:white;
   margin-right: 2px;
+}
+
+.design-pic {
+  height: 250px;
 }

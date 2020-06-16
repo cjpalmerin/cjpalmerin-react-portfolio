@@ -12,9 +12,11 @@ export default function Home() {
                 <div id="front-menu">
                     <Link to='/about'> About Me </Link>
                     <p className="separator"> | </p>
-                    <Link to='/projects'> Projects </Link>
+                    <Link to='/projects'> Web Development </Link>
                     <p className="separator"> | </p>
                     <Link to='/resume'> Resume </Link>
+                    <p className="separator"> | </p>
+                    <Link to='/design'> Design </Link>
                     <p className="separator"> | </p>
                     <Link to='/contact'> Contact </Link>
                 </div>

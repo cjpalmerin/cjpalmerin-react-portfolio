@@ -10,6 +10,7 @@ import LocalSpot from './pages/LocalSpot';
 import ChromaCove from './pages/ChromaCove';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
+import Design from './pages/Design'
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Route exact path="/chromacove" component={ChromaCove} />
       <Route exact path="/resume" component={Resume} />
       <Route exact path="/contact" component={Contact} />
+      <Route exact path="/design" component={Design} />
 
     </Router>
   );
