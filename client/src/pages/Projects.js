@@ -48,6 +48,7 @@ export default function Projects() {
                             <p className="projects-p">First project completed at Northwestern Coding Bootcamp. Utilizing two APIs, Open Weather and the Meal DB my
                             team and I created an app that provides food suggestions based on the weather. I was in charge of front-end
               and made contributions to JavaScript.</p>
+              <p className="projects-p"><strong>Technologies Used:</strong> HTML5, CSS, Javascript, Github, Open Weather API, TheMealDB API, Materialize CSS,</p>
                         </div>
 
                         <div className="project-div relative">
@@ -70,6 +71,7 @@ export default function Projects() {
                             materalize, mysql2, and sequelize along Yelp-Fusion API, my team created a curated list of places to go in
                             Chicago. Users can view the list and add a like to whichever spots they like or want to hit up. I was in
               charge of designing the front end and contributed to back end routing and JavaScript.</p>
+              <p className="projects-p"><strong>Technologies Used:</strong> Javascript, Node, Express, Express-Handlebars, MySQL2, Sequelize, Yelp API, Materialize CSS, Github</p>
 
                         </div>
 
@@ -92,6 +94,8 @@ export default function Projects() {
                             <p className="projects-p">Utilizing React.js node.js, express.js,
                             materalize, MongoDB with Mongoose along the Unsplash API, I led my team as project manager to create an app that places the focus on the individual photographer.
                             By searching for free, high quality images, the user can find photographers, view their info, and build an extensive list of their favorite photographers for future reference. </p>
+                            <p className="projects-p"><strong>Technologies Used:</strong> React, Javascript, Node, Express, MongoDB, Mongoose, Unsplash API, Github, Materialize CSS, UI Kit.</p>
+
                             {/* <span className="projects-icons">
                                 <a href="https://afternoon-waters-22064.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <i className="fas fa-link"></i></a>
                             </span>

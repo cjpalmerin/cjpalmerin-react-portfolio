@@ -10,6 +10,8 @@ function Contact() {
             <div className="jumbotron jumbotron-fluid">
                 <div className="container contact-container">
                     <h3>Contact Me</h3>
+                    <p>Send me an email at cjpalmerin@gmail.com </p>
+                    <p>or check out the links below:</p>
                     <p>
                         <span className="contact-icons">
                             <a href="mailto: cjpalmerin@gmail.com"><i className="fas fa-envelope-square"></i></a>

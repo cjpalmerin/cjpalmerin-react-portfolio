@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import { Redirect } from 'react-router'
+
 
 import Home from './pages/Home'
 import AboutMe from './pages/AboutMe'
@@ -25,6 +27,9 @@ function App() {
       <Route exact path="/resume" component={Resume} />
       <Route exact path="/contact" component={Contact} />
       <Route exact path="/design" component={Design} />
+      <Route exact path="*" component={App}>
+        <Redirect to="/" />
+      </Route>
 
     </Router>
   );
