@@ -17,3 +17,8 @@ if (process.env.NODE_ENV === "production") {
 app.listen(PORT, function() {
     console.log(`Server is listening on http://localhost/$(PORT)`)
 })
+
+//CATCH ALL
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve("./dist", "index.html"));
+});
