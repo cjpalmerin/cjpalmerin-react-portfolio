@@ -19,6 +19,6 @@ app.listen(PORT, function() {
 })
 
 //CATCH ALL
-app.get("*", (req, res) => {
+app.get("/*", (req, res) => {
   res.sendFile(path.resolve("./dist", "index.html"));
 });
