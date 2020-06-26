@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route } from "react-router-dom";
-import { Redirect } from 'react-router'
+import { 
+  // BrowserRouter as Router, 
+  Route, HashRouter} from "react-router-dom";
+// import { Redirect,  } from 'react-router'
 
 
 import Home from './pages/Home'
@@ -17,7 +19,7 @@ import Design from './pages/Design'
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Route exact path="/" component={Home} />
       <Route exact path="/about" component={AboutMe} />
       <Route exact path="/projects" component={Projects} />
@@ -27,11 +29,11 @@ function App() {
       <Route exact path="/resume" component={Resume} />
       <Route exact path="/contact" component={Contact} />
       <Route exact path="/design" component={Design} />
-      <Route exact path="*" component={App}>
+      {/* <Route exact path="*" component={App}>
         <Redirect to="/" />
-      </Route>
+      </Route> */}
 
-    </Router>
+    </HashRouter>
   );
 }
 
