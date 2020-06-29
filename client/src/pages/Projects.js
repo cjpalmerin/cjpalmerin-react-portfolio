@@ -147,7 +147,7 @@ export default function Projects() {
                                     </span>
                                 </div>
                             </div>
-                            <h6>Third Party APIs</h6>
+                            <h6>JavaScript</h6>
                             <h3 className="project-name">Day Planner</h3>
                             <p className="projects-p">This application displays the current date and time inside of the jumbotron. From there you can see what time
                             of day it is based on the coloring of the different rows in the application. Grey rows will show when that
