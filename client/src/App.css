@@ -111,6 +111,14 @@ ul {
   margin-right: auto;
 }
 
+.resume {
+  width: 50%;
+}
+
+.resume-header {
+  text-align: center;
+}
+
 #weatherEats-logo {
   width: 100%;
   border-radius: 100%;
