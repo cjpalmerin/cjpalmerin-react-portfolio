@@ -21,13 +21,13 @@ Email: cjpalmerin@gmail.com
  GitHub: https://github.com/cjpalmerin  Portfolio: https://cjpalmerin-react.herokuapp.com/</p>
                             </div>
                             <h5>SUMMARY</h5>
-                            <p>I am a Front-end developer with a background in graphic design. Combining my technical knowledge in creating MERN applications with a history of cultivating a timely work ethic, strong communication and leadership skills, project management skills and an eye for design, I am an advantageous candidate for any team.</p>
+                            <p>I am a Front-end developer, Graphic Designer, and UI Designer. Combining my technical knowledge in creating MERN applications with a history of cultivating a timely work ethic, strong communication and leadership skills, project management skills and an eye for design, I am an advantageous candidate for any team.</p>
 
                             <br />
                             <h5>TECHNICAL SKILLSs</h5>
                             <p>Coding: JavaScript ES5/6 • HTML5 • CSS • React.js • Node.js • Express.js • MySQL • MongoDB • Third Party APIs
 <br />
-Design: Adobe Illustrator • Adobe Photoshop • Adobe Animate • Adobe Premiere Pro • iMovie • Final Cut Pro
+Design: Adobe Illustrator • Adobe Photoshop • Adobe XD • Adobe Animate • Adobe Premiere Pro • iMovie • Final Cut Pro
 <br />
 Computers: Google Drive • Microsoft Word • Powerpoint • GitHub • Slack • Zoom • Skype • Social Media</p>
 
@@ -50,6 +50,12 @@ weatherEats accepts city names as the user input and suggests a meal recipe base
 </p>
 <br />
 <h5>EXPERIENCE</h5>
+Front End Developer | Graphic Designer | UI Designer - YourMD.ca & GetHair.club
+<br />
+August 2020 - Present
+<br />
+Designed UI mockups for web application currently in progress. Created product mockups and marketing collateral for website.<br />
+<br />
 Graphic Designer - Current App / Current Network
 <br />
 June 2019 - March 2020
