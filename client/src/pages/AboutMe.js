@@ -14,7 +14,7 @@ function AboutMe() {
                             <img id="profile-pic" alt="face" src="../../assets/images/profile_pic.JPG" />
                             <br />
                             <h3 className="about-me-text">Hello! I'm CJ</h3>
-                            <p className="about-me-text">I'm a web developer with a background in graphic design. I recently survived and graduated from the Northwestern Coding Bootcamp in June 2020 and am looking forward to getting out into the field of front end web development. After working through this bootcamp, I have experience working with: </p>
+                            <p className="about-me-text">I'm a Web Developer, Graphic Designer and UI Designer. I recently survived and graduated from the Northwestern Coding Bootcamp in June 2020 and am looking forward to getting out into the field of front end web development. After working through this bootcamp, I have experience working with: </p>
                             <ul className="about-me-text">
                                 <li>JavaScript ES5 + ES6</li>
                                 <li>HTML5 + CSS3</li>
@@ -27,18 +27,20 @@ function AboutMe() {
                             </ul>
                             <p className="about-me-text">During my years in graphic design, I created brand identites, marketing material, graphics, animations, and videos using:</p>
                             <ul className="about-me-text">
-                                <li>Illustrator</li>
-                                <li>Photoshop</li>
-                                <li>InDesign</li>
-                                <li>Animate</li>
-                                <li>Premiere Pro</li>
+                                <li>Adobe Illustrator</li>
+                                <li>Adobe Photoshop</li>
+                                <li>Adobe XD</li>
+                                <li>Adobe InDesign</li>
+                                <li>Adobe Animate</li>
+                                <li>Adobe Premiere Pro</li>
+                                <li>Final Cut Pro</li>
 
                             </ul>
 
                             <p className="about-me-text">
                                 When I'm not perfecting the art of
-                                coding or designing something, I'm probably playing bass, doodling, cooking up something good, or
-                                playing Nintendo.
+                                coding or designing something, I'm probably playing bass, guitar, or drums with friends, doodling, cooking up something good, or
+                                playing Nintendo Switch.
 
                                 <br />
                                 <br />

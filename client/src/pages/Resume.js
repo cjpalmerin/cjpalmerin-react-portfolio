@@ -50,7 +50,7 @@ weatherEats accepts city names as the user input and suggests a meal recipe base
 </p>
 <br />
 <h5>EXPERIENCE</h5>
-Front End Developer | Graphic Designer | UI Designer - YourMD.ca & GetHair.club
+Front End Developer, Graphic Designer, UI Designer - YourMD.ca & GetHair.club
 <br />
 August 2020 - Present
 <br />
